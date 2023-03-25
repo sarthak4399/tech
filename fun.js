@@ -1,4 +1,5 @@
 const key = "1000";
+document.getElementById('key').innerHTML = "Key: " + key;
 
 for (let i = 0; i < key.length; i++) {
     console.log(key[i]);
