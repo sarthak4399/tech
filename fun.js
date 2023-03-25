@@ -25,9 +25,5 @@ for (let i = 0; i < key.length; i++) {
         else if (key[i] == '0' && i == 3) {
             document.getElementById('q3').style.backgroundColor = "white";
         }
-
-
-
-      
 }
     
